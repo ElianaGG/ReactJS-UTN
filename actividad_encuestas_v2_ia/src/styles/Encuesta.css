@@ -1,0 +1,60 @@
+.encuesta-container {
+  text-align: center;
+  margin: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.encuesta-header {
+  margin-bottom: 20px;
+}
+
+.preguntas-container {
+  border: 2px solid #7fbba0; /* Verde pastel más oscuro */
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+  background-color: #c0e8d8; /* Verde pastel oscuro */
+  box-shadow: 2px 2px 5px #aaa;
+}
+
+.pregunta {
+  margin-bottom: 20px;
+}
+
+.pregunta p {
+  font-size: 18px;
+  color: #7fbba0; /* Verde pastel más oscuro */
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ol li {
+  font-size: 16px;
+  color: #555; /* Color de texto gris oscuro */
+  margin: 5px 0;
+}
+
+label li {
+  margin-left: 10px;
+}
+
+.volver-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: none;
+  background-color: #7fbba0; /* Verde pastel más oscuro */
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 10px;
+  transition: background-color 0.2s;
+}
+
+.volver-link:hover {
+  background-color: #5b997f; /* Verde más oscuro */
+}

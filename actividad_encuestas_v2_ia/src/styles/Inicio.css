@@ -1,0 +1,50 @@
+.inicio-container {
+  text-align: center;
+  margin: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.encuestas-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.encuesta-item {
+  border: 2px solid #9cc7b2; /* Verde pastel */
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  background-color: #d3edde; /* Verde pastel claro */
+  box-shadow: 2px 2px 5px #aaa;
+  transition: transform 0.2s;
+}
+
+.encuesta-item:hover {
+  transform: scale(1.05);
+}
+
+.encuesta-item h2 {
+  font-size: 24px;
+  color: #9cc7b2; /* Verde pastel */
+}
+
+.encuesta-item p {
+  font-size: 16px;
+}
+
+.encuesta-item a {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  background-color: #9cc7b2; /* Verde pastel */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.2s;
+}
+
+.encuesta-item a:hover {
+  background-color: #7fbba0; /* Verde pastel más oscuro */
+}

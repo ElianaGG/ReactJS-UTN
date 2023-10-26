@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "titulo": "Encuesta de Satisfacción",
+      "descripcion": "Por favor, tómese un momento para responder a nuestras preguntas de satisfacción.",
+      "preguntas": [
+        {
+          "id": 1,
+          "pregunta": "¿Cómo calificaría nuestro servicio?",
+          "opciones": [
+            { "id": 1, "texto": "Excelente" },
+            { "id": 2, "texto": "Bueno" },
+            { "id": 3, "texto": "Regular" },
+            { "id": 4, "texto": "Malo" },
+            { "id": 5, "texto": "Muy Malo" },
+            { "id": 6, "texto": "No estoy seguro" }
+          ]
+        },
+        {
+          "id": 2,
+          "pregunta": "¿Qué podemos mejorar?",
+          "opciones": [
+            { "id": 5, "texto": "Atención al cliente" },
+            { "id": 6, "texto": "Tiempo de entrega" },
+            { "id": 7, "texto": "Variedad de productos" },
+            { "id": 8, "texto": "Calidad de productos" },
+            { "id": 9, "texto": "Nada" },
+            { "id": 10, "texto": "Otro (Por favor, especifique)" }
+          ]
+        },
+        {
+          "id": 11,
+          "pregunta": "¿Está satisfecho con la velocidad de respuesta de nuestro equipo?",
+          "opciones": [
+            { "id": 11, "texto": "Muy satisfecho" },
+            { "id": 12, "texto": "Satisfecho" },
+            { "id": 13, "texto": "Neutral" },
+            { "id": 14, "texto": "Insatisfecho" },
+            { "id": 15, "texto": "Muy insatisfecho" },
+            { "id": 16, "texto": "No lo sé" }
+          ]
+        },
+        {
+          "id": 12,
+          "pregunta": "¿Le gustaría que ofreciéramos nuevos productos o servicios?",
+          "opciones": [
+            { "id": 17, "texto": "Sí" },
+            { "id": 18, "texto": "No" },
+            { "id": 19, "texto": "No estoy seguro" }
+          ]
+        },
+        {
+          "id": 13,
+          "pregunta": "¿Cómo conoció nuestros servicios?",
+          "opciones": [
+            { "id": 20, "texto": "A través de un amigo" },
+            { "id": 21, "texto": "Búsqueda en línea" },
+            { "id": 22, "texto": "Redes sociales" },
+            { "id": 23, "texto": "Publicidad impresa" },
+            { "id": 24, "texto": "Otro" }
+          ]
+        },
+        {
+          "id": 14,
+          "pregunta": "¿Cuál es su característica favorita de nuestros productos?",
+          "opciones": [
+            { "id": 25, "texto": "Precio asequible" },
+            { "id": 26, "texto": "Calidad superior" },
+            { "id": 27, "texto": "Variedad de opciones" },
+            { "id": 28, "texto": "Atención al cliente excepcional" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Encuesta de Productos",
+      "descripcion": "Ayúdenos a mejorar nuestros productos completando esta encuesta.",
+      "preguntas": [
+        {
+          "id": 3,
+          "pregunta": "¿Cuál es su producto favorito?",
+          "opciones": [
+            { "id": 9, "texto": "Producto A" },
+            { "id": 10, "texto": "Producto B" },
+            { "id": 11, "texto": "Producto C" },
+            { "id": 12, "texto": "Producto D" },
+            { "id": 13, "texto": "Producto E" },
+            { "id": 14, "texto": "Producto F" }
+          ]
+        },
+        {
+          "id": 4,
+          "pregunta": "¿Cómo podemos mejorar nuestro servicio al cliente?",
+          "opciones": [
+            { "id": 15, "texto": "Mayor disponibilidad de atención" },
+            { "id": 16, "texto": "Más opciones de contacto" },
+            { "id": 17, "texto": "Respuestas más rápidas" },
+            { "id": 18, "texto": "Entrenamiento al personal" },
+            { "id": 19, "texto": "Ninguna mejora necesaria" },
+            { "id": 20, "texto": "No lo sé" }
+          ]
+        },
+        {
+          "id": 21,
+          "pregunta": "¿Cuál es su método de pago preferido?",
+          "opciones": [
+            { "id": 21, "texto": "Tarjeta de crédito" },
+            { "id": 22, "texto": "PayPal" },
+            { "id": 23, "texto": "Transferencia bancaria" },
+            { "id": 24, "texto": "Efectivo" },
+            { "id": 25, "texto": "Otro" },
+            { "id": 26, "texto": "No tengo preferencia" }
+          ]
+        },
+        {
+          "id": 22,
+          "pregunta": "¿Con qué frecuencia compra nuestros productos?",
+          "opciones": [
+            { "id": 27, "texto": "Mensualmente" },
+            { "id": 28, "texto": "Trimestralmente" },
+            { "id": 29, "texto": "Anualmente" },
+            { "id": 30, "texto": "Ocasionalmente" },
+            { "id": 31, "texto": "Nunca" },
+            { "id": 32, "texto": "No lo sé" }
+          ]
+        },
+        {
+          "id": 23,
+          "pregunta": "¿Recomendaría nuestros productos a otras personas?",
+          "opciones": [
+            { "id": 33, "texto": "Definitivamente sí" },
+            { "id": 34, "texto": "Probablemente sí" },
+            { "id": 35, "texto": "No estoy seguro" },
+            { "id": 36, "texto": "Probablemente no" },
+            { "id": 37, "texto": "Definitivamente no" },
+            { "id": 38, "texto": "No lo sé" }
+          ]
+        }
+      ]
+    }
+  ]
+  
